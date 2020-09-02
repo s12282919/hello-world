@@ -1,2 +1,3 @@
 # hello-world
-hello world repository
+Just a Repository
+One of my favorite games is DeadByDaylight
